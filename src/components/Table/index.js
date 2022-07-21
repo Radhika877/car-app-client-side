@@ -1,3 +1,7 @@
+/*
+This is the table component which displays car sales data in a tabular form
+*/
+
 import { Dialog } from '@material-ui/core';
 import { withStyles, createStyles, makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';

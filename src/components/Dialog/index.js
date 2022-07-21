@@ -1,3 +1,9 @@
+/*
+This is the dialog modal component which opens on click of row.
+This has the customer and car data populated and user can give 
+input to update the field values.
+*/
+
 import { Button, CircularProgress, Grid, TextField, Typography } from "@material-ui/core";
 import axios from "axios";
 import { useEffect, useState } from "react";

@@ -1,3 +1,8 @@
+/*
+This is the homepage Page which has the layout of components
+on the homepage.
+*/
+
 import SearchBar from "../components/SearchBar/index";
 import styled from 'styled-components';
 import { Container } from "@material-ui/core";

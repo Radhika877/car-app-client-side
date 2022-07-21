@@ -1,3 +1,7 @@
+/*
+This is the search bar component which can get search results based
+on Sales ID or Customer ID
+*/
 import { Grid, InputAdornment, TextField } from "@material-ui/core";
 
 
